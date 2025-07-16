@@ -1,0 +1,5 @@
+tensorflow>=2.16.1
+numpy>=1.21
+matplotlib>=3.4
+tf-explain>=0.3.1
+opencv-python

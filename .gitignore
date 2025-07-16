@@ -1,0 +1,5 @@
+# Ignore TensorFlow/Keras saved model
+mnist_model.h5
+
+# Ignore generated image for integrated gradients
+integrated_gradients.png
