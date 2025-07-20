@@ -3,3 +3,7 @@ mnist_model.h5
 
 # Ignore generated image for integrated gradients
 integrated_gradients.png
+
+
+# Ignore virtual environment
+venv
